@@ -1,2 +1,0 @@
-# kdbd
-Konika Designs BD
